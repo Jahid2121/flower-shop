@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+
+}
+
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 50px 240px 0px 240px ;
+    display: flex;
+    align-items: center;
+}
+.banner .banner-pic{
+    width: 635px;
+}
