@@ -113,3 +113,40 @@ font-family: 'Open Sans', sans-serif;
     border-radius: 8px;
     background: #FFF; 
 }
+.main-footer{
+    background: #111010;
+    width: 1922px;
+    height: 449px;
+    text-align: center;
+    
+}
+#flower{
+    font-size: 48px;
+    font-weight: 800;
+}
+.name-of-shop{
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 128px;
+
+}
+
+.footer-para{
+    display: flex;
+    width: 625px;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 21px 649px 32px 648px ;
+
+}
+.web{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 128px;
+}
