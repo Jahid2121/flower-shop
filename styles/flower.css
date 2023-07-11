@@ -2,6 +2,9 @@ body{
     font-family: 'Lato', sans-serif;
 font-family: 'Open Sans', sans-serif;
 }
+.text-primary{
+    color: #E55473;
+}
 .btn-primary{
     border-radius: 8px;
     background: #E55473;
@@ -12,7 +15,7 @@ font-family: 'Open Sans', sans-serif;
     padding: 20px 43px;
 
 }
-
+/* header related style */
 .header{
     background-color: rgba(229, 84, 115, 0.10);
 }
@@ -20,7 +23,37 @@ font-family: 'Open Sans', sans-serif;
     padding: 50px 240px 0px 240px ;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+}
+.banner-content{
+    max-width: 600px;
 }
 .banner .banner-pic{
     width: 635px;
+}
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+/* main related style */
+
+/* section deal styles */
+.deal{
+    padding: 100px 429px 100px 395px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.deal-content{
+    max-width: 590px;
+}
+.deal .deal-pic{
+    width: 318px;
+}
+.deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
 }
